@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="main-content archive-page clearfix">
+    <div class="checkbox-list">
+        <ul class="ks-cboxtags">
+        {% for tag in site.data.tags %}
+            <li><input class="checkbox" type="checkbox" id="{{tag}}" value="{{tag}}"><label for="{{tag}}">{{tag}}</label></li>
+        {% endfor %}
+        </ul>
+    </div>
+    <div class="categorys-item">
+        <div class="post-lists">
+            <div class="post-lists-body">
+            </div>
+        </div>
+
+    </div>
+</div>

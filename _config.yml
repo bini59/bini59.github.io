@@ -1,0 +1,22 @@
+name: Bini's Blog
+author: Bini
+url: https://bini59.github.io
+baseurl: 
+resume_site: 
+description: 
+github_username: bini59
+github: https://github.io/bini59
+plugins: [jekyll-paginate]
+permalink: /:year-:month-:day-:title
+paginate: 12
+paginate_path: "/page/:num/"
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+highlighter: rouge
+markdown: kramdown
+comments :
+  gitalk :
+    clientID : be450313dafcae268fb5
+    clientSecret : dc1dbffcb2dcc27f311e9cc8c714c18b2ec2a9a8
+    repo : bini59.github.io
+    owner : bini59
+    admin : [bini59]
