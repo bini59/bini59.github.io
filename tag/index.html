@@ -6,7 +6,7 @@ layout: default
     <div class="checkbox-list">
         <ul class="ks-cboxtags">
         {% for tag in site.data.tags %}
-            <li><input class="checkbox" type="checkbox" id="{{tag}}" value="{{tag}}"><label for="{{tag}}">{{tag}}</label></li>
+            <li><input class="checkbox" type="checkbox" id="{{tag}}" value="{{tag}}" style="text-transform: capitalize;"><label for="{{tag}}">{{tag}}</label></li>
         {% endfor %}
         </ul>
     </div>
