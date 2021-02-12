@@ -5,7 +5,7 @@ baseurl:
 resume_site: 
 description: 
 github_username: bini59
-github: https://github.io/bini59
+github: https://github.com/bini59
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
