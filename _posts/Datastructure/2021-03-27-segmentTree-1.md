@@ -109,7 +109,7 @@ int init(int start, int end, int node){
 
 위의 예제에서 2~7까지의 합을 구해야한다 하자.
 
-[!트리2](/style/image/segementTree-2.png)
+![트리](/style/image/segmentTree-2.png)
 
 그럼 이렇게 3개의 합만 더해주면 되는 것!!!이다.
 
@@ -150,7 +150,7 @@ init sum(int start, int end, int node, int left, int right){
 한번 예제에서 2를 바꿔보자.
 2를 바꾸면 2를 포함하는 노드는 저어언부 바꿔줘야 한다.
 
-[!트리3](/style/image/segmentTree-3.png)
+![트리](/style/image/segmentTree-3.png)
 
 처음부터 내려오면서, 2가 포함되어 있으면 2와 바꾸려는 수의 차이만큼 더해주고,
 
