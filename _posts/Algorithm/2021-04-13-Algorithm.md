@@ -1,7 +1,7 @@
 ---
 layout        : post
-title         : [Algorithm]알고리즘
-date          : 2021.04.13
+title         : '['Algorithm']'알고리즘
+date          : 2021.04.15
 category      : Algorithm
 comments      : true
 tags          : [Algorithm]
