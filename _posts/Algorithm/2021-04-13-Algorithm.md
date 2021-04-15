@@ -1,6 +1,6 @@
 ---
 layout        : post
-title         : '['Algorithm']'알고리즘
+title         : &#91;Algorithm&#93;알고리즘
 date          : 2021.04.15
 category      : Algorithm
 comments      : true
