@@ -1,6 +1,6 @@
 ---
 layout        : post
-title         : 생성자
+title         : "&#91;OOP&#93;생성자"
 date          : 2020.11.12
 category      : Object-Oriented-Programing
 comments      : true

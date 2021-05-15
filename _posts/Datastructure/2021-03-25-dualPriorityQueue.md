@@ -1,6 +1,6 @@
 ---
 layout        : post
-title         : 이중 우선순위 큐
+title         : "&#91;Data-Structure&#93;이중 우선순위 큐"
 date          : 2021.03.25
 category      : Data-Structure
 comments      : true

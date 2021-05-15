@@ -1,6 +1,6 @@
 ---
 layout        : post
-title         : 세그먼트 트리
+title         : "&#91;Data-Structure&#93;세그먼트 트리"
 date          : 2021.03.27
 category      : Data-Structure
 comments      : true

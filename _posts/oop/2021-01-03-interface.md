@@ -1,6 +1,6 @@
 ---
 layout        : post
-title         : 추상클래스와 인터페이스
+title         : "&#91;OOP&#93;추상클래스와 인터페이스"
 date          : 2021.01.03
 category      : Object-Oriented-Programing
 comments      : true
