@@ -1,10 +1,10 @@
 ---
 layout        : post
-title         : "&#91;React&#93;React를 시작하며"
+title         : "&#91;React&#93;React+Express+Socket.io로 웹앱 만들기"
 date          : 2021.05.18
 category      : React
 comments      : true
-tags          : [React, JavaScript, HTML, CSS]
+tags          : [React, JavaScript, HTML, CSS, Socket.io, Express, NodeJS]
 icon          : note
 ---
 
@@ -54,5 +54,3 @@ db도 구축하고, 게시판 형태의 웹서비스를 만들어 본적이 있�
 미래를 생각해보면 결국 다 배울거 같긴 하지만, 그래도 첫번째로 뭘 배울까 여러모로 찾아다니면서 조사를 했다.
 
 이 셋중에선 가장 유명하고, 또 커뮤니티도 활발하며, 많은 기업들에서 사용중인 React를 공부해보기로 했다.
-
-
