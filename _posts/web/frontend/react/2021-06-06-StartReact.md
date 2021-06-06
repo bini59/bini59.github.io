@@ -62,7 +62,7 @@ icon          : note
 
 아래의 코드를 보자.
 
-```JSX
+```jsx
 import {useState} from "react";
 
 function App(){

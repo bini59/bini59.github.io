@@ -74,7 +74,7 @@ css만 쓰다가 갑자기 sass를 쓰니까 너무 편하더라.
 
 
 ### 게임화면
-```javascript
+```jsx 
 class Song extends Component{
 
     // 왠지 쓸거같아서 써둔건데 안썼네...

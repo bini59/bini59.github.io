@@ -40,7 +40,7 @@ icon          : note
 > 그 때 사진을 찍어 둘 걸 그랬다. 사진을 다 보여줄 수가 없네 아쉬운대로 코드라도...
 
 
-```JSX
+```jsx
 import React, {Component} from "react";
 
 class Log extends Component{
@@ -81,7 +81,7 @@ props가 갱신이 되면 로그도 같이 갱신이 될예정이다.
 
 ### 게임 시작, 나가기
 
-```JSX
+```jsx
 // 현재 유저가 방장일때
 {this.state.user.roomMaster?
     // 게임시작 버튼을 만들고, 게임시작 버튼을 불러온다.
@@ -96,7 +96,7 @@ props가 갱신이 되면 로그도 같이 갱신이 될예정이다.
 ```
 > btns.js
 
-```JSX
+```jsx
 <Btns
     // btn에 props의 형태로 함수를 넘겨주어따.
     // 게임 시작
@@ -134,7 +134,7 @@ props가 갱신이 되면 로그도 같이 갱신이 될예정이다.
 
 > 채팅로그 버튼이 있어야 하지만,, 나중에 한 작업 때문에 없다.
 
-```JSX
+```jsx
 <Btn
     ...
     addUser={(user)=>{this.users.push(user)}} // 유저를 인수로 받아서 넣어준다.
@@ -142,7 +142,7 @@ props가 갱신이 되면 로그도 같이 갱신이 될예정이다.
 ```
 > App.js
 
-```JSX
+```jsx
 constructor(props){
         super(props)
 
