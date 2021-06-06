@@ -1,11 +1,11 @@
 ---
 layout        : post
-title         : "&#91;React&#93;React+Express+Socket.io로 웹앱 만들기"
+title         : "&#91;노래 맞추기&#93;React+Express+Socket.io로 웹앱 만들기"
 date          : 2021.05.18
 category      : React
 comments      : true
 tags          : [React, JavaScript, HTML, CSS, Socket.io, Express, NodeJS]
-icon          : note
+icon          : react
 ---
 
 * content

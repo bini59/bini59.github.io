@@ -5,7 +5,7 @@ date          : 2021.06.06
 category      : React
 comments      : true
 tags          : [React, JavaScript, HTML]
-icon          : note
+icon          : react
 ---
 
 * content
