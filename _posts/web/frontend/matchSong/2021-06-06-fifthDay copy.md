@@ -130,7 +130,7 @@ props가 갱신이 되면 로그도 같이 갱신이 될예정이다.
 
 여러모로 손해라서 방에서 입력을 받는걸로 했다.
 
-![채팅로그](/style/image/react-MatchSong/chatlog.png)
+![채팅로그](/style/image/react-MatchSong/inputNickname.png)
 
 > 채팅로그 버튼이 있어야 하지만,, 나중에 한 작업 때문에 없다.
 
