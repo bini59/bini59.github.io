@@ -22,7 +22,7 @@ icon          : note
 1. 직관
 2. 체계적 접근
 
-직관은 그 말대로</br> 
+직관은 그 말대로
 문제를 보고 바로 어떻게 풀어야 할지 예상이 가는것이다.
 
 물론 당연히 이건 쉽지 않다.
@@ -103,7 +103,7 @@ icon          : note
 
 예를 들어 사다리타기 게임을 생각해본다.
 
-<img style="width : 70%;" src="/style/image/algorithm/사다리타기.png">
+<img style="width : 70%;" src="/style/image/algorithm/사다리타기.jpg">
 
 1번에 도달하기 위해서 어느 사다리를 선택해야하는지 알아보려면,
 1, 2, 3, 4사다리를 다 선택해보는 방법도 있다.
