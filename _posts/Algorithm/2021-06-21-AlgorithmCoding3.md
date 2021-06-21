@@ -40,7 +40,7 @@ C, C++, JAVA등 숫자 자료형이 크기가 제한 되어 있는 경우,
 #### 너무 큰 중간값.
 
 예를 들어서,
-![a*b](/style/image/algoritm/atimeb.png)
+![a*b](/style/image/algorithm/atimeb.png)
 
 이 수식을 보자.
 
@@ -71,7 +71,7 @@ a x b의 과정에서 32비트 자료형의 크기를 넘어가서
 64비트의 정수형을 쓴다.
 
 #### 계산 순서를 바꾼다.
-![a*b](/style/image/algoritm/atimeb.png)
+![a*b](/style/image/algorithm/atimeb.png)
 
 위의 이 식에서도 바꿀 수 있다.
 
@@ -112,7 +112,7 @@ int main(){
     long long d = 42;
     short e = 12;
     char f = 6;
-    unsinged int g = 1257
+    unsigned int g = 1257
 
     a / b // 결과는 4.0/2.4로 1.666666... 이다.
     c / b // 결과는 4.0 이 수의 자료형은 double이다.
