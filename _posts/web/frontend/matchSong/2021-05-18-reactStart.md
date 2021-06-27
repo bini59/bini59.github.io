@@ -6,6 +6,7 @@ category      : React
 comments      : true
 tags          : [React, JavaScript, HTML, CSS, Socket.io, Express, NodeJS]
 icon          : react
+thumbnail     : "/style/image/thumbnail/matchSong.png"
 ---
 
 * content

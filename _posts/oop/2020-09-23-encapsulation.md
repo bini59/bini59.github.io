@@ -4,6 +4,7 @@ title         : "&#91;OOP&#93;캡슐화"
 date          : 2020.09.23
 category      : Object-Oriented-Programing
 comments      : true
+icon          : oop
 tags          : [Object-Oriented-Programing, encapsulation]
 ---
 

@@ -6,6 +6,7 @@ category      : React
 comments      : true
 tags          : [React, JavaScript, HTML]
 icon          : react
+thumbnail      : "/style/image/thumbnail/react.png"
 ---
 
 * content

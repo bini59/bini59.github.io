@@ -5,7 +5,7 @@ date          : 2021.03.27
 category      : Data-Structure
 comments      : true
 tags          : [Data-structure, Algorithm, Tree, Segment-Tree]
-icon          : note
+icon          : datastructure
 ---
 
 ## 세그먼트 트리

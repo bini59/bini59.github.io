@@ -5,7 +5,7 @@ date          : 2021.03.25
 category      : Data-Structure
 comments      : true
 tags          : [Data-structure, Algorithm, queue]
-icon          : note
+icon          : datastructure
 ---
 
 * content

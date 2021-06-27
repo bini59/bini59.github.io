@@ -4,6 +4,7 @@ title         : "&#91;OOP&#93;상속"
 date          : 2020.10.17
 category      : Object-Oriented-Programing
 comments      : true
+icon          : oop
 tags          : [Object-Oriented-Programing, inheritance]
 ---
 

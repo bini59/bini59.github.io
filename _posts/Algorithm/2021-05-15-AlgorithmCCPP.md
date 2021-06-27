@@ -5,7 +5,8 @@ date          : 2021.05.15
 category      : Algorithm
 comments      : true
 tags          : [Algorithm, C/C++]
-icon          : note
+icon          : algorithm
+thumbnail     : "/style/image/thumbnail/algorithm.png"
 ---
 
 * content
