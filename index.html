@@ -6,30 +6,33 @@ layout: default
     <div class="post-lists">
         <div class="post-lists-body">
             {% for post in paginator.posts %}
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
             <div class="post-list-item">
                 <div class="post-list-item-container">
-                    <div class="item-thumb bg-deepgrey" style="background-image:url({% if post.thumbnail %}{{ post.thumbnail }}{% else %}{{ '/style/image/thumbnail.png' | prepend: site.baseurl }}{% endif %});"></div>
-                    <a href="{{ post.url | prepend: site.baseurl }}">
-                        <div class="item-desc">
-                            <p>{{ post.content | strip_html | strip_newlines | truncate: 128 }} </p>
-                        </div>
-                    </a>
+                    <div class="item-thumb bg-deepgrey" style="background-image:url({% if post.thumbnail %}{{ post.thumbnail }}{% else %}{{ '/style/image/thumbnail.png' | prepend: site.baseurl }}{% endif %});">
+                    </div>
                     <div class="item-slant reverse-slant bg-deepgrey"></div>
-                    <div class="item-slant"></div>
+                    <div class="item-slant"></div>            
+                  
                     <div class="item-label">
-                        <div class="item-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                        <br />
-                        {{ post.date | date: "%b %d, %Y" }}
+                        <div class="item-title">
+                            {{ post.title }}
+                        </div>
+                        <div class="item-content">
+                            <p>{{ post.content | strip_html | strip_newlines | truncate: 32 }} </p>
+                            {{ post.date | date: "%b %d, %Y" }}
                         </div>
                         <div class="item-meta clearfix">
                             <div class="item-meta-ico {% if post.icon %}bg-ico-{{ post.icon }}{% endif %}" style="background-image: url('/style/image/logos/{{post.icon}}.png')"></div>
                             <div class="item-meta-cat">
-                                <a href="javascript:void(0);">{{ post.category }}</a>
+                                {{ post.category }}
                             </div>
+                            
                         </div>
                     </div>
                 </div>
             </div>
+        </a>
             {% endfor %}
         </div>
     </div>
