@@ -19,7 +19,7 @@ layout: default
                             {{ post.title }}
                         </div>
                         <div class="item-content">
-                            <p>{{ post.content | strip_html | strip_newlines | truncate: 32 }} </p>
+                            <p>{{ post.content | strip_html | strip_newlines | truncate: 100 }} </p>
                             {{ post.date | date: "%b %d, %Y" }}
                         </div>
                         <div class="item-meta clearfix">
