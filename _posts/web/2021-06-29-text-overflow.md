@@ -5,7 +5,7 @@ date          : 2021.06.29
 category      : CSS
 comments      : true
 tags          : [Web, CSS]
-icon          : web
+icon          : css
 thumbnail     : "/style/image/thumbnail/web.png"
 ---
 
