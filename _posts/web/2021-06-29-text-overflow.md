@@ -1,6 +1,6 @@
 ---
 layout        : post
-title         : "&#91;CSS&#93;CSS로 너무 긴 글 처리."
+title         : "&#91;CSS&#93;CSS로 너무 긴 글 말 줄임표 넣기."
 date          : 2021.06.29
 category      : CSS
 comments      : true
